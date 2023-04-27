@@ -1,6 +1,6 @@
 * text=auto
-*.html linguist-detectable=false
-*.js linguist-detectable=false
-*.css linguist-detectable=false
-*.ipynb linguist-detectable=false
-Procfile linguist-detectable=false
+*.html linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+*.ipynb linguist-detectable=true
+Procfile linguist-detectable=true
